@@ -7,7 +7,7 @@ const redirectToHTTPS = require('express-http-to-https').redirectToHTTPS;
 
 const FORECAST_DELAY = 0;
 
-const API_KEY = 'API_KEY';
+const API_KEY = 'bb8820e12fa650d1fc7f5e73a5c1a637';
 const BASE_URL = `https://api.darksky.net/forecast`;
 
 const fakeForecast = {
